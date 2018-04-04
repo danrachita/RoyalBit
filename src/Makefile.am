@@ -64,15 +64,15 @@ bin_PROGRAMS =
 TESTS =
 
 if BUILD_BITCOIND
-  bin_PROGRAMS += alqod
+  bin_PROGRAMS += robid
 endif
 
 if BUILD_BITCOIN_UTILS
-  bin_PROGRAMS += alqo-cli alqo-tx
+  bin_PROGRAMS += robi-cli robi-tx
 endif
 
 .PHONY: FORCE
-# alqo core #
+# robi core #
 BITCOIN_CORE_H = \
   activemasternode.h \
   addrman.h \
@@ -180,7 +180,7 @@ obj/build.h: FORCE
 	  $(abs_top_srcdir)
 libbitcoin_util_a-clientversion.$(OBJEXT): obj/build.h
 
-# server: shared between alqod and alqo-qt
+# server: shared between robid and robi-qt
 libbitcoin_server_a_CPPFLAGS = $(BITCOIN_INCLUDES) $(MINIUPNPC_CPPFLAGS) $(BOOST_CPPFLAGS)
 libbitcoin_server_a_SOURCES = \
   addrman.cpp \
@@ -224,7 +224,7 @@ libbitcoin_zmq_a_SOURCES = \
   zmq/zmqpublishnotifier.cpp
 endif
 
-# wallet: shared between alqod and alqo-qt, but only linked
+# wallet: shared between robid and robi-qt, but only linked
 # when wallet enabled
 
 libbitcoin_wallet_a_CFLAGS = -fPIC
@@ -295,7 +295,7 @@ univalue_libbitcoin_univalue_a_SOURCES = \
   univalue/univalue_escapes.h \
   univalue/univalue.h
 
-# common: shared between alqod, and alqo-qt and non-server tools
+# common: shared between robid, and robi-qt and non-server tools
 libbitcoin_common_a_CPPFLAGS = $(BITCOIN_INCLUDES)
 libbitcoin_common_a_SOURCES = \
   allocators.cpp \
@@ -351,7 +351,7 @@ libbitcoin_util_a_SOURCES += compat/glibc_compat.cpp
 libbitcoin_util_a_SOURCES += compat/glibcxx_compat.cpp
 endif
 
-# cli: shared between alqo-cli and alqo-qt
+# cli: shared between robi-cli and robi-qt
 libbitcoin_cli_a_CPPFLAGS = $(BITCOIN_INCLUDES)
 libbitcoin_cli_a_SOURCES = \
   rpcclient.cpp \
@@ -361,7 +361,7 @@ nodist_libbitcoin_util_a_SOURCES = $(srcdir)/obj/build.h
 #
 
 # bitcoind binary #
-alqod_LDADD = \
+robid_LDADD = \
   $(LIBBITCOIN_SERVER) \
   $(LIBBITCOIN_COMMON) \
   $(LIBBITCOIN_UNIVALUE) \
@@ -372,40 +372,40 @@ alqod_LDADD = \
   $(LIBSECP256K1)
 
 if ENABLE_ZMQ
-alqod_LDADD += $(LIBBITCOIN_ZMQ) $(ZMQ_LIBS)
+robid_LDADD += $(LIBBITCOIN_ZMQ) $(ZMQ_LIBS)
 endif
 
 if ENABLE_WALLET
-alqod_LDADD += libbitcoin_wallet.a
+robid_LDADD += libbitcoin_wallet.a
 endif
-alqod_SOURCES = alqod.cpp
+robid_SOURCES = robid.cpp
 #
 
 if TARGET_WINDOWS
-alqod_SOURCES += alqod-res.rc
+robid_SOURCES += robid-res.rc
 endif
 
-alqod_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS)
-alqod_CPPFLAGS = $(BITCOIN_INCLUDES)
-alqod_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+robid_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS)
+robid_CPPFLAGS = $(BITCOIN_INCLUDES)
+robid_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 
-# alqo-cli binary #
-alqo_cli_LDADD = \
+# robi-cli binary #
+robi_cli_LDADD = \
   $(LIBBITCOIN_CLI) \
   $(LIBBITCOIN_UTIL) \
   $(BOOST_LIBS) \
   $(SSL_LIBS) \
   $(CRYPTO_LIBS)
 
-alqo_cli_SOURCES = \
-  alqo-cli.cpp
+robi_cli_SOURCES = \
+  robi-cli.cpp
 
-alqo_cli_CPPFLAGS = $(BITCOIN_INCLUDES)
+robi_cli_CPPFLAGS = $(BITCOIN_INCLUDES)
 #
 
-# alqo-tx binary #
-alqo_tx_LDADD = \
+# robi-tx binary #
+robi_tx_LDADD = \
   $(LIBBITCOIN_UNIVALUE) \
   $(LIBBITCOIN_COMMON) \
   $(LIBBITCOIN_UTIL) \
@@ -414,15 +414,15 @@ alqo_tx_LDADD = \
   $(BOOST_LIBS) \
   $(CRYPTO_LIBS)
 
-alqo_tx_SOURCES = alqo-tx.cpp
-alqo_tx_CPPFLAGS = $(BITCOIN_INCLUDES)
+robi_tx_SOURCES = robi-tx.cpp
+robi_tx_CPPFLAGS = $(BITCOIN_INCLUDES)
 #
-alqo_tx_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+robi_tx_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if TARGET_WINDOWS
-alqo_cli_SOURCES += alqo-cli-res.rc
+robi_cli_SOURCES += robi-cli-res.rc
 endif
-alqo_cli_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+robi_cli_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if BUILD_BITCOIN_LIBS
 include_HEADERS = script/bitcoinconsensus.h

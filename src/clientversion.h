@@ -6,18 +6,18 @@
 #define BITCOIN_CLIENTVERSION_H
 
 #if defined(HAVE_CONFIG_H)
-#include "config/alqo-config.h"
+#include "config/robi-config.h"
 #else
 
 /**
  * client versioning and copyright year
  */
 
-//! These need to be macros, as clientversion.cpp's and alqo*-res.rc's voodoo requires it
-#define CLIENT_VERSION_MAJOR 2
+//! These need to be macros, as clientversion.cpp's and robi*-res.rc's voodoo requires it
+#define CLIENT_VERSION_MAJOR 1
 #define CLIENT_VERSION_MINOR 0
 #define CLIENT_VERSION_REVISION 0
-#define CLIENT_VERSION_BUILD 3
+#define CLIENT_VERSION_BUILD 0
 //bitcoingui.cpp L116
 //! Set to true for release, false for prerelease or test build
 #define CLIENT_VERSION_IS_RELEASE true
@@ -38,10 +38,10 @@
 #define DO_STRINGIZE(X) #X
 
 //! Copyright string used in Windows .rc files
-#define COPYRIGHT_STR "2009-" STRINGIZE(COPYRIGHT_YEAR) " The Bitcoin Core Developers, 2014-" STRINGIZE(COPYRIGHT_YEAR) " The Dash and PIVX Core Developers, 2015-" STRINGIZE(COPYRIGHT_YEAR) " The ALQO Core Developers"
+#define COPYRIGHT_STR "2009-" STRINGIZE(COPYRIGHT_YEAR) " The Bitcoin Core Developers, 2014-" STRINGIZE(COPYRIGHT_YEAR) " The Dash and PIVX Core Developers, 2015-" STRINGIZE(COPYRIGHT_YEAR) " The ROBI Core Developers"
 
 /**
- * alqod-res.rc includes this file, but it cannot cope with real c++ code.
+ * robid-res.rc includes this file, but it cannot cope with real c++ code.
  * WINDRES_PREPROC is defined to indicate that its pre-processor is running.
  * Anything other than a define should be guarded below.
  */

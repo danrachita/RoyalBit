@@ -1,19 +1,19 @@
 [Unit]
-Description=ALQO's distributed currency daemon
+Description=ROBI's distributed currency daemon
 After=network.target
 
 [Service]
-User=alqo
-Group=alqo
+User=robi
+Group=robi
 
 Type=forking
-PIDFile=/var/lib/alqod/alqod.pid
+PIDFile=/var/lib/robid/robid.pid
 
-ExecStart=/usr/bin/alqod -daemon -pid=/var/lib/alqod/alqod.pid \
-          -conf=/etc/alqo/alqo.conf -datadir=/var/lib/alqod
+ExecStart=/usr/bin/robid -daemon -pid=/var/lib/robid/robid.pid \
+          -conf=/etc/robi/robi.conf -datadir=/var/lib/robid
 
-ExecStop=-/usr/bin/alqo-cli -conf=/etc/alqo/alqo.conf \
-         -datadir=/var/lib/alqod stop
+ExecStop=-/usr/bin/robi-cli -conf=/etc/robi/robi.conf \
+         -datadir=/var/lib/robid stop
 
 Restart=always
 PrivateTmp=true

@@ -1,12 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=ALQO
-Comment=ALQO P2P Cryptocurrency
-Comment[fr]=ALQO, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=ALQO, eşten eşe kriptografik sanal para birimi
-Exec=alqo-qt %u
+Name=ROBI
+Comment=ROBI P2P Cryptocurrency
+Comment[fr]=ROBI, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ROBI, eşten eşe kriptografik sanal para birimi
+Exec=robi-qt %u
 Terminal=false
 Type=Application
-Icon=alqo128
-MimeType=x-scheme-handler/alqo;
+Icon=robi128
+MimeType=x-scheme-handler/robi;
 Categories=Office;Finance;

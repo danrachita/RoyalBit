@@ -62,12 +62,12 @@
         <translation>Адреса получения</translation>
     </message>
     <message>
-        <source>These are your ALQO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Это ваши адреса ALQO для отправки платежей. Всегда проверяйте количество и адрес получателя перед отправкой перевода.</translation>
+        <source>These are your ROBI addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Это ваши адреса ROBI для отправки платежей. Всегда проверяйте количество и адрес получателя перед отправкой перевода.</translation>
     </message>
     <message>
-        <source>These are your ALQO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Это ваши адреса ALQO для приёма платежей. Рекомендуется использовать новый адрес получения для каждой транзакции.</translation>
+        <source>These are your ROBI addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Это ваши адреса ROBI для приёма платежей. Рекомендуется использовать новый адрес получения для каждой транзакции.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -188,7 +188,7 @@
         <translation>Кошелёк зашифрован</translation>
     </message>
     <message>
-        <source>ALQO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alqos from being stolen by malware infecting your computer.</source>
+        <source>ROBI will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your robis from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего кошелька не может полностью защитить ваши даши от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -231,8 +231,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>ALQO Core</source>
-        <translation>ALQO Core</translation>
+        <source>ROBI Core</source>
+        <translation>ROBI Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -255,16 +255,16 @@
         <translation>&amp;Отправить</translation>
     </message>
     <message>
-        <source>Send coins to a ALQO address</source>
-        <translation>Отправить монеты на указанный адрес ALQO</translation>
+        <source>Send coins to a ROBI address</source>
+        <translation>Отправить монеты на указанный адрес ROBI</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
         <translation>&amp;Получить</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alqo: URIs)</source>
-        <translation>Запросить платежи (создать QR-коды и alqo: URI)</translation>
+        <source>Request payments (generates QR codes and robi: URIs)</source>
+        <translation>Запросить платежи (создать QR-коды и robi: URI)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -283,12 +283,12 @@
         <translation>Закрыть приложение</translation>
     </message>
     <message>
-        <source>&amp;About ALQO Core</source>
-        <translation>О &amp;ALQO Core</translation>
+        <source>&amp;About ROBI Core</source>
+        <translation>О &amp;ROBI Core</translation>
     </message>
     <message>
-        <source>Show information about ALQO Core</source>
-        <translation>Показать информацию о ALQO Core</translation>
+        <source>Show information about ROBI Core</source>
+        <translation>Показать информацию о ROBI Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -303,8 +303,8 @@
         <translation>&amp;Настройки...</translation>
     </message>
     <message>
-        <source>Modify configuration options for ALQO</source>
-        <translation>Изменить параметры конфигурации ALQO</translation>
+        <source>Modify configuration options for ROBI</source>
+        <translation>Изменить параметры конфигурации ROBI</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -355,16 +355,16 @@
         <translation>П&amp;одписать сообщение...</translation>
     </message>
     <message>
-        <source>Sign messages with your ALQO addresses to prove you own them</source>
-        <translation>Подписать сообщения вашими адресами ALQO, чтобы доказать, что вы ими владеете</translation>
+        <source>Sign messages with your ROBI addresses to prove you own them</source>
+        <translation>Подписать сообщения вашими адресами ROBI, чтобы доказать, что вы ими владеете</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>П&amp;роверить сообщение...</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified ALQO addresses</source>
-        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определёнными адресами ALQO</translation>
+        <source>Verify messages to ensure they were signed with specified ROBI addresses</source>
+        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определёнными адресами ROBI</translation>
     </message>
     <message>
         <source>&amp;Information</source>
@@ -443,16 +443,16 @@
         <translation>Открыть &amp;URI...</translation>
     </message>
     <message>
-        <source>Open a alqo: URI or payment request</source>
-        <translation>Открыть alqo: URI или запрос платежа</translation>
+        <source>Open a robi: URI or payment request</source>
+        <translation>Открыть robi: URI или запрос платежа</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Параметры командной строки</translation>
     </message>
     <message>
-        <source>ALQO Core client</source>
-        <translation>Клиент ALQO Core</translation>
+        <source>ROBI Core client</source>
+        <translation>Клиент ROBI Core</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n blocks of transaction history.</source>
@@ -463,8 +463,8 @@
         <translation>Синхронизация дополнительных данных: %p%</translation>
     </message>
     <message>
-        <source>Show the ALQO Core help message to get a list with possible ALQO command-line options</source>
-        <translation>Показать помощь о ALQO Core со списком возможных параметров командной строки</translation>
+        <source>Show the ROBI Core help message to get a list with possible ROBI command-line options</source>
+        <translation>Показать помощь о ROBI Core со списком возможных параметров командной строки</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -487,8 +487,8 @@
         <translation>Панель вкладок</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to ALQO network</source>
-        <translation><numerusform>%n активное соединение с сетью ALQO</numerusform><numerusform>%n активных соединения с сетью ALQO</numerusform><numerusform>%n активных соединений с сетью ALQO</numerusform><numerusform>%n активных соединений с сетью ALQO</numerusform></translation>
+        <source>%n active connection(s) to ROBI network</source>
+        <translation><numerusform>%n активное соединение с сетью ROBI</numerusform><numerusform>%n активных соединения с сетью ROBI</numerusform><numerusform>%n активных соединений с сетью ROBI</numerusform><numerusform>%n активных соединений с сетью ROBI</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -896,15 +896,15 @@ Address: %4
         <translation>Настройки Obfuscate</translation>
     </message>
     <message>
-        <source>Obfuscate was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening ALQO's configuration screen.</source>
+        <source>Obfuscate was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening ROBI's configuration screen.</source>
         <translation>Obfuscate успешно установлен в режим обычной приватности (%1 и 2 раунда). Вы можете изменить это в любое время, используя окно настроек.</translation>
     </message>
     <message>
-        <source>Obfuscate was successfully set to high (%1 and 8 rounds). You can change this at any time by opening ALQO's configuration screen.</source>
+        <source>Obfuscate was successfully set to high (%1 and 8 rounds). You can change this at any time by opening ROBI's configuration screen.</source>
         <translation>Obfuscate успешно установлен в режим высокой приватности (%1 и 8 раундов). Вы можете изменить это в любое время, используя окно настроек.</translation>
     </message>
     <message>
-        <source>Obfuscate was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening ALQO's configuration screen.</source>
+        <source>Obfuscate was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening ROBI's configuration screen.</source>
         <translation>Obfuscate успешно установлен в режим максимально приватности (%1 и 16 раундов). Вы можете изменить это в любое время, используя окно настроек.</translation>
     </message>
 </context>
@@ -947,8 +947,8 @@ Address: %4
         <translation>Изменение адреса для отправки</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid ALQO address.</source>
-        <translation>Введённый адрес "%1" не является правильным адресом ALQO.</translation>
+        <source>The entered address "%1" is not a valid ROBI address.</source>
+        <translation>Введённый адрес "%1" не является правильным адресом ROBI.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -989,8 +989,8 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>ALQO Core</source>
-        <translation>ALQO Core</translation>
+        <source>ROBI Core</source>
+        <translation>ROBI Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -1001,8 +1001,8 @@ Address: %4
         <translation>(%1-бит)</translation>
     </message>
     <message>
-        <source>About ALQO Core</source>
-        <translation>О ALQO Core</translation>
+        <source>About ROBI Core</source>
+        <translation>О ROBI Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1048,16 +1048,16 @@ Address: %4
         <translation>Добро пожаловать</translation>
     </message>
     <message>
-        <source>Welcome to ALQO Core.</source>
-        <translation>Добро пожаловать в ALQO Core.</translation>
+        <source>Welcome to ROBI Core.</source>
+        <translation>Добро пожаловать в ROBI Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where ALQO Core will store its data.</source>
-        <translation>Так как вы впервые запустили программу, вы можете выбрать, где ALQO Core будет хранить данные.</translation>
+        <source>As this is the first time the program is launched, you can choose where ROBI Core will store its data.</source>
+        <translation>Так как вы впервые запустили программу, вы можете выбрать, где ROBI Core будет хранить данные.</translation>
     </message>
     <message>
-        <source>ALQO Core will download and store a copy of the ALQO block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>ALQO Core скачает и сохранит копию цепочки блоков. Как минимум %1ГБ данных будет храниться в этом каталоге и размер данных будет со временем расти. В этом же каталоге будет сохранён кошелёк.</translation>
+        <source>ROBI Core will download and store a copy of the ROBI block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>ROBI Core скачает и сохранит копию цепочки блоков. Как минимум %1ГБ данных будет храниться в этом каталоге и размер данных будет со временем расти. В этом же каталоге будет сохранён кошелёк.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1068,8 +1068,8 @@ Address: %4
         <translation>Использовать другой каталог данных:</translation>
     </message>
     <message>
-        <source>ALQO Core</source>
-        <translation>ALQO Core</translation>
+        <source>ROBI Core</source>
+        <translation>ROBI Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1122,12 +1122,12 @@ Address: %4
         <translation>&amp;Главная</translation>
     </message>
     <message>
-        <source>Automatically start ALQO after logging in to the system.</source>
-        <translation>Автоматически запускать ALQO после входа в систему.</translation>
+        <source>Automatically start ROBI after logging in to the system.</source>
+        <translation>Автоматически запускать ROBI после входа в систему.</translation>
     </message>
     <message>
-        <source>&amp;Start ALQO on system login</source>
-        <translation>&amp;Запускать ALQO при входе в систему</translation>
+        <source>&amp;Start ROBI on system login</source>
+        <translation>&amp;Запускать ROBI при входе в систему</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1154,8 +1154,8 @@ Address: %4
         <translation>Это пороговое значение, при достижении которого автоматическое перемешивание отключается.</translation>
     </message>
     <message>
-        <source>Amount of ALQO to keep anonymized</source>
-        <translation>Сумма постоянно анонимизированных ALQO</translation>
+        <source>Amount of ROBI to keep anonymized</source>
+        <translation>Сумма постоянно анонимизированных ROBI</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -1174,8 +1174,8 @@ Address: %4
         <translation>Принимать входящие подключения</translation>
     </message>
     <message>
-        <source>Connect to the ALQO network through a SOCKS5 proxy.</source>
-        <translation>Подключаться к сети ALQO через прокси SOCKS5.</translation>
+        <source>Connect to the ROBI network through a SOCKS5 proxy.</source>
+        <translation>Подключаться к сети ROBI через прокси SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1206,8 +1206,8 @@ Address: %4
         <translation>&amp;Сеть</translation>
     </message>
     <message>
-        <source>Automatically open the ALQO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для клиента ALQO на роутере. Работает только в том случае, если Ваш роутер поддерживает UPnP и данная функция включена.</translation>
+        <source>Automatically open the ROBI client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для клиента ROBI на роутере. Работает только в том случае, если Ваш роутер поддерживает UPnP и данная функция включена.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1258,14 +1258,14 @@ Address: %4
         <translation>&amp;Язык интерфейса:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting ALQO.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска ALQO.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting ROBI.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска ROBI.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</source>
+https://www.transifex.com/robi-crypto/robi-wallet-translations/</source>
         <translation>Нет Вашего языка или перевод неполон? Помогите нам сделать перевод лучше:
-https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
+https://www.transifex.com/robi-crypto/robi-wallet-translations/</translation>
     </message>
     <message>
         <source>User Interface Theme:</source>
@@ -1347,8 +1347,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Форма</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ALQO network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш кошелёк автоматически синхронизируется с сетью ALQO после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ROBI network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш кошелёк автоматически синхронизируется с сетью ROBI после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1568,8 +1568,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Ошибка запроса платежа</translation>
     </message>
     <message>
-        <source>Cannot start alqo: click-to-pay handler</source>
-        <translation>Не удаётся запустить обработчик alqo: click-to-pay</translation>
+        <source>Cannot start robi: click-to-pay handler</source>
+        <translation>Не удаётся запустить обработчик robi: click-to-pay</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1588,8 +1588,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Неверный адрес платежа %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid ALQO address or malformed URI parameters.</source>
-        <translation>Не удалось разобрать URI! Возможно указан некорректный адрес ALQO либо параметры URI сформированы неверно.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid ROBI address or malformed URI parameters.</source>
+        <translation>Не удалось разобрать URI! Возможно указан некорректный адрес ROBI либо параметры URI сформированы неверно.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -1674,8 +1674,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Сумма</translation>
     </message>
     <message>
-        <source>Enter a ALQO address (e.g. %1)</source>
-        <translation>Введите адрес ALQO (например, %1)</translation>
+        <source>Enter a ROBI address (e.g. %1)</source>
+        <translation>Введите адрес ROBI (например, %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1764,8 +1764,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Число подключений</translation>
     </message>
     <message>
-        <source>Open the ALQO debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл ALQO из текущего каталога данных. Для больших лог-файлов эта операция может занять несколько секунд.</translation>
+        <source>Open the ROBI debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл ROBI из текущего каталога данных. Для больших лог-файлов эта операция может занять несколько секунд.</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -1972,8 +1972,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Выход:</translation>
     </message>
     <message>
-        <source>Welcome to the ALQO RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль ALQO.</translation>
+        <source>Welcome to the ROBI RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль ROBI.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2035,8 +2035,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>&amp;Повторно использовать существующий адрес получения (не рекомендуется)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the ALQO network.</source>
-        <translation>Необязательное сообщение для запроса платежа, которое будет показано при открытии запроса. Обратите внимание: сообщение не будет отправлено вместе с платежом через сеть ALQO.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the ROBI network.</source>
+        <translation>Необязательное сообщение для запроса платежа, которое будет показано при открытии запроса. Обратите внимание: сообщение не будет отправлено вместе с платежом через сеть ROBI.</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -2047,8 +2047,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Необязательная метка для нового адреса получения.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the ALQO network.</source>
-        <translation>Необязательное сообщение для запроса платежа, которое будет показано при открытии запроса.&lt;br&gt;Обратите внимание: сообщение не будет отправлено вместе с платежом через сеть ALQO.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the ROBI network.</source>
+        <translation>Необязательное сообщение для запроса платежа, которое будет показано при открытии запроса.&lt;br&gt;Обратите внимание: сообщение не будет отправлено вместе с платежом через сеть ROBI.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -2292,7 +2292,7 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Если ручная комиссия  установлена в 1000 duff, а транзакция по размеру только 250 байт, то плата "за килобайт" составит лишь 250 duff,&lt;br&gt;в то время как "итого минимум" будет равна 1000 duff. Для тразакций больше килобайта в любом случае идет расчет "за килобайт".</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for alqo transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for robi transactions than the network can process.</source>
         <translation>Оплаты только минимальной комиссии должно быть достаточно во всех случаях, пока в блоках достаточно места.&lt;br&gt;Однако, будьте готовы к тому, что транзакция может вовсе не получить подтверждения,&lt;br&gt;если количество транзакций будет стабильно больше, чем сеть способна обработать.</translation>
     </message>
     <message>
@@ -2496,8 +2496,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Заплатить только минимальную комиссию %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid ALQO address</source>
-        <translation>Внимание: неверный адрес ALQO</translation>
+        <source>Warning: Invalid ROBI address</source>
+        <translation>Внимание: неверный адрес ROBI</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2519,8 +2519,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Полу&amp;чатель:</translation>
     </message>
     <message>
-        <source>The ALQO address to send the payment to</source>
-        <translation>Адрес ALQO для отправки на него монет</translation>
+        <source>The ROBI address to send the payment to</source>
+        <translation>Адрес ROBI для отправки на него монет</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2559,8 +2559,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Сообщение:</translation>
     </message>
     <message>
-        <source>A message that was attached to the alqo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the ALQO network.</source>
-        <translation>К alqo: URI было прикреплено сообщение, которое будет сохранено вместе с транзакцией для вашего сведения. Обратите внимание: сообщение не будет отправлено через сеть ALQO.</translation>
+        <source>A message that was attached to the robi: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the ROBI network.</source>
+        <translation>К robi: URI было прикреплено сообщение, которое будет сохранено вместе с транзакцией для вашего сведения. Обратите внимание: сообщение не будет отправлено через сеть ROBI.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2586,8 +2586,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>ALQO Core is shutting down...</source>
-        <translation>ALQO Core выключается...</translation>
+        <source>ROBI Core is shutting down...</source>
+        <translation>ROBI Core выключается...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2609,8 +2609,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Вы можете подписывать сообщения своими адресами, чтобы доказать владение ими. Будьте осторожны, не подписывайте что-то неопределённое, так как фишинговые атаки могут обманным путём заставить вас подписать нежелательные сообщения. Подписывайте только те сообщения, с которыми вы согласны вплоть до мелочей.</translation>
     </message>
     <message>
-        <source>The ALQO address to sign the message with</source>
-        <translation>Адрес ALQO, которым Вы хотите подписать сообщение</translation>
+        <source>The ROBI address to sign the message with</source>
+        <translation>Адрес ROBI, которым Вы хотите подписать сообщение</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2641,8 +2641,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Скопировать текущую подпись в системный буфер обмена</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ALQO address</source>
-        <translation>Подписать сообщение, чтобы доказать владение этим адресом ALQO</translation>
+        <source>Sign the message to prove you own this ROBI address</source>
+        <translation>Подписать сообщение, чтобы доказать владение этим адресом ROBI</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2665,12 +2665,12 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Введите ниже адрес для подписи, сообщение (убедитесь, что переводы строк, пробелы, табы и т.п. в точности скопированы) и подпись, чтобы проверить сообщение. Убедитесь, что не скопировали лишнего в подпись, по сравнению с самим подписываемым сообщением, чтобы не стать жертвой атаки "man-in-the-middle".</translation>
     </message>
     <message>
-        <source>The ALQO address the message was signed with</source>
-        <translation>Адрес ALQO, которым было подписано сообщение</translation>
+        <source>The ROBI address the message was signed with</source>
+        <translation>Адрес ROBI, которым было подписано сообщение</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ALQO address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом ALQO</translation>
+        <source>Verify the message to ensure it was signed with the specified ROBI address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом ROBI</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2736,8 +2736,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>ALQO Core</source>
-        <translation>ALQO Core</translation>
+        <source>ROBI Core</source>
+        <translation>ROBI Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2748,8 +2748,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Разработчики Bitcoin Core</translation>
     </message>
     <message>
-        <source>The ALQO Core developers</source>
-        <translation>Разработчики ALQO Core</translation>
+        <source>The ROBI Core developers</source>
+        <translation>Разработчики ROBI Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3320,14 +3320,14 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
     </message>
 </context>
 <context>
-    <name>alqo-core</name>
+    <name>robi-core</name>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
         <translation>Привязаться к указанному адресу и всегда прослушивать только его. Используйте [хост]:порт для IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. ALQO Core is probably already running.</source>
-        <translation>Не удалось установить блокировку на каталог данных %s. Возможно, ALQO Core уже запущен.</translation>
+        <source>Cannot obtain a lock on data directory %s. ROBI Core is probably already running.</source>
+        <translation>Не удалось установить блокировку на каталог данных %s. Возможно, ROBI Core уже запущен.</translation>
     </message>
     <message>
         <source>Obfuscate uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
@@ -3382,8 +3382,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Это пре-релизная тестовая сборка - используйте на свой страх и риск - не используйте для добычи или торговых приложений</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. ALQO Core is probably already running.</source>
-        <translation>Не удалось привязаться к %s на этом компьютере. Возможно, ALQO Core уже запущен.</translation>
+        <source>Unable to bind to %s on this computer. ROBI Core is probably already running.</source>
+        <translation>Не удалось привязаться к %s на этом компьютере. Возможно, ROBI Core уже запущен.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscate denominated funds for this transaction.</source>
@@ -3614,8 +3614,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Удалить все трансакции из кошелька и при рестарте с помощью -rescan восстановить только те, которые есть в цепочке блоков</translation>
     </message>
     <message>
-        <source>Disable all ALQO specific functionality (Masternodes, Obfuscate, InstantX, Budgeting) (0-1, default: %u)</source>
-        <translation>Отключить всю функциональность, относящуюся к  ALQO (Мастерноды, Obfuscate, InstantX, бюджеты) (0-1, по умолчанию: %u)</translation>
+        <source>Disable all ROBI specific functionality (Masternodes, Obfuscate, InstantX, Budgeting) (0-1, default: %u)</source>
+        <translation>Отключить всю функциональность, относящуюся к  ROBI (Мастерноды, Obfuscate, InstantX, бюджеты) (0-1, по умолчанию: %u)</translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
@@ -3710,27 +3710,27 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Этот продукт включает ПО, разработанное проектом OpenSSL Project для использования в OpenSSL Toolkit &lt;https://www.openssl.org/&gt;, криптографическое ПО, написанное Eric Young и ПО для работы с UPnP, написанное Thomas Bernard.</translation>
     </message>
     <message>
-        <source>To use alqod, or the -server option to alqo-qt, you must set an rpcpassword in the configuration file:
+        <source>To use robid, or the -server option to robi-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=alqorpc
+rpcuser=robirpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "ALQO Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "ROBI Alert" admin@foo.com
 </source>
-        <translation>Для использования alqod или опции -server с alqo-qt, вы должны установить опцию rpcpassword в конфигурационном файле:
+        <translation>Для использования robid или опции -server с robi-qt, вы должны установить опцию rpcpassword в конфигурационном файле:
 %s
 Рекомендуется использовать следующий случайный пароль:
-rpcuser=alqorpc
+rpcuser=robirpc
 rpcpassword=%s
 (вам не нужно запоминать этот пароль)
 Имя и пароль ДОЛЖНЫ различаться.
 Если файл не существует, то создайте его и оставьте права на чтение только для владельца.
 Также рекомендуется включить alertnotify для оповещения о проблемах;
-Например: alertnotify=echo %%s | mail -s "ALQO Alert" admin@foo.com
+Например: alertnotify=echo %%s | mail -s "ROBI Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -3746,8 +3746,8 @@ rpcpassword=%s
         <translation>Внимание: установлено очень большое значение -paytxfee! Комиссия такого размера может быть уплачена при проведении одельной транзакции.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong ALQO Core will not work properly.</source>
-        <translation>Внимание: пожалуйста, убедитесь что дата и время на Вашем компьютере выставлены правильно! ALQO Core не сможет работать корректно, если часы настроены неверно.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong ROBI Core will not work properly.</source>
+        <translation>Внимание: пожалуйста, убедитесь что дата и время на Вашем компьютере выставлены правильно! ROBI Core не сможет работать корректно, если часы настроены неверно.</translation>
     </message>
     <message>
         <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>
@@ -3758,8 +3758,8 @@ rpcpassword=%s
         <translation>Пиры, внесенные в белый список, не будут подвергаться DoS блокировкам и их транзакции будут ретранслироваться, даже если они уже есть в пуле памяти, что полезно, например, для работы в качестве шлюза</translation>
     </message>
     <message>
-        <source>(55500 could be used only on mainnet)</source>
-        <translation>(55500 можно использовать только в главной сети)</translation>
+        <source>(9898 could be used only on mainnet)</source>
+        <translation>(9898 можно использовать только в главной сети)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -3800,8 +3800,8 @@ rpcpassword=%s
         <translation>Copyright (C) 2009-%i The Bitcoin Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The ALQO Core Developers</source>
-        <translation>Copyright (C) 2014-%i The ALQO Core Developers</translation>
+        <source>Copyright (C) 2014-%i The ROBI Core Developers</source>
+        <translation>Copyright (C) 2014-%i The ROBI Core Developers</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
@@ -3832,8 +3832,8 @@ rpcpassword=%s
         <translation>Ошибка соединения с мастернодой.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of ALQO Core</source>
-        <translation>Ошибка загрузки wallet.dat: кошелёк требует более новой версии ALQO Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of ROBI Core</source>
+        <translation>Ошибка загрузки wallet.dat: кошелёк требует более новой версии ROBI Core</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occured, see debug.log for details</source>
@@ -3904,8 +3904,8 @@ rpcpassword=%s
         <translation>Информация</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. ALQO Core is shutting down.</source>
-        <translation>Проверка на непротиворечивость закончилась неудачно. ALQO Core выключается.</translation>
+        <source>Initialization sanity check failed. ROBI Core is shutting down.</source>
+        <translation>Проверка на непротиворечивость закончилась неудачно. ROBI Core выключается.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4156,8 +4156,8 @@ rpcpassword=%s
         <translation>Использовать UPnP для проброса порта (по умолчанию: %u)</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart ALQO Core to complete</source>
-        <translation>Необходимо перезаписать кошелёк: перезапустите ALQO Core для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart ROBI Core to complete</source>
+        <translation>Необходимо перезаписать кошелёк: перезапустите ROBI Core для завершения операции</translation>
     </message>
     <message>
         <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>
@@ -4176,8 +4176,8 @@ rpcpassword=%s
         <translation>Неправильное значение masternodeprivkey. Пожалуйста, ознакомьтесь с документацией.</translation>
     </message>
     <message>
-        <source>(must be55500 for mainnet)</source>
-        <translation>(должно быть55500 в главной сети)</translation>
+        <source>(must be9898 for mainnet)</source>
+        <translation>(должно быть9898 в главной сети)</translation>
     </message>
     <message>
         <source>Can't find random Masternode.</source>

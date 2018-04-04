@@ -95,7 +95,7 @@ public:
 };
 
 /**
- * ALQO RPC command dispatcher.
+ * ROBI RPC command dispatcher.
  */
 class CRPCTable
 {

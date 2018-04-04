@@ -1,8 +1,8 @@
-/* src/config/alqo-config.h.in.  Generated from configure.ac by autoheader.  */
+/* src/config/robi-config.h.in.  Generated from configure.ac by autoheader.  */
 
-#ifndef ALQO_CONFIG_H
+#ifndef ROBI_CONFIG_H
 
-#define ALQO_CONFIG_H
+#define ROBI_CONFIG_H
 
 /* Define if building universal (internal helper macro) */
 #undef AC_APPLE_UNIVERSAL_BUILD
@@ -345,4 +345,4 @@
 /* Define for large files, on AIX-style hosts. */
 #undef _LARGE_FILES
 
-#endif //ALQO_CONFIG_H
+#endif //ROBI_CONFIG_H

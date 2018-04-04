@@ -80,12 +80,12 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your ALQO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your ROBI addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>These are your ALQO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your ROBI addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -221,7 +221,7 @@
     </message>
     <message>
         <location line="+12"/>
-        <source>ALQO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALQOs from being stolen by malware infecting your computer.</source>
+        <source>ROBI will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ROBIs from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -231,7 +231,7 @@
     </message>
     <message>
         <location line="+0"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ALQO&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ROBI&lt;/b&gt;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -307,7 +307,7 @@
     </message>
     <message>
         <location line="+6"/>
-        <source>Enter a ALQO Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <source>Enter a ROBI Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -318,7 +318,7 @@
     </message>
     <message>
         <location line="-355"/>
-        <source>The ALQO address to sign the message with</source>
+        <source>The ROBI address to sign the message with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -360,7 +360,7 @@
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this ALQO address</source>
+        <source>Sign the message to prove you own this ROBI address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -391,12 +391,12 @@
     </message>
     <message>
         <location line="+25"/>
-        <source>The ALQO address the message was signed with</source>
+        <source>The ROBI address the message was signed with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+29"/>
-        <source>Verify the message to ensure it was signed with the specified ALQO address</source>
+        <source>Verify the message to ensure it was signed with the specified ROBI address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -776,17 +776,17 @@
     <message>
         <location line="-413"/>
         <location line="+853"/>
-        <source>ALQO Core</source>
+        <source>ROBI Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-665"/>
-        <source>Send coins to a ALQO address</source>
+        <source>Send coins to a ROBI address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+11"/>
-        <source>Request payments (generates QR codes and alqo: URIs)</source>
+        <source>Request payments (generates QR codes and robi: URIs)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -801,27 +801,27 @@
     </message>
     <message>
         <location line="+29"/>
-        <source>&amp;About ALQO Core</source>
+        <source>&amp;About ROBI Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about ALQO Core</source>
+        <source>Show information about ROBI Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Modify configuration options for ALQO</source>
+        <source>Modify configuration options for ROBI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>Sign messages with your ALQO addresses to prove you own them</source>
+        <source>Sign messages with your ROBI addresses to prove you own them</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified ALQO addresses</source>
+        <source>Verify messages to ensure they were signed with specified ROBI addresses</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -846,7 +846,7 @@
     </message>
     <message>
         <location line="+24"/>
-        <source>Open a ALQO: URI or payment request</source>
+        <source>Open a ROBI: URI or payment request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -871,7 +871,7 @@
     </message>
     <message>
         <location line="+4"/>
-        <source>Show the ALQO Core help message to get a list with possible ALQO command-line options</source>
+        <source>Show the ROBI Core help message to get a list with possible ROBI command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -881,12 +881,12 @@
     </message>
     <message>
         <location line="+147"/>
-        <source>ALQO Core client</source>
+        <source>ROBI Core client</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <location line="+182"/>
-        <source>%n active connection(s) to ALQO network</source>
+        <source>%n active connection(s) to ROBI network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -1082,7 +1082,7 @@ Address: %4
     </message>
     <message>
         <location filename="../blockexplorer.cpp" line="+498"/>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (alqo.conf).</source>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (robi.conf).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1461,7 +1461,7 @@ Address: %4
     </message>
     <message>
         <location line="+71"/>
-        <source>The entered address &quot;%1&quot; is not a valid ALQO address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid ROBI address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1517,7 +1517,7 @@ Address: %4
     </message>
     <message>
         <location line="+0"/>
-        <source>ALQO Core</source>
+        <source>ROBI Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1528,7 +1528,7 @@ Address: %4
     </message>
     <message>
         <location line="+5"/>
-        <source>About ALQO Core</source>
+        <source>About ROBI Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1586,17 +1586,17 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to ALQO Core.</source>
+        <source>Welcome to ROBI Core.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where ALQO Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where ROBI Core will store its data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>ALQO Core will download and store a copy of the ALQO block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>ROBI Core will download and store a copy of the ROBI block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1611,7 +1611,7 @@ Address: %4
     </message>
     <message>
         <location filename="../intro.cpp" line="+82"/>
-        <source>ALQO Core</source>
+        <source>ROBI Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1814,8 +1814,8 @@ Address: %4
     </message>
     <message>
         <location line="+16"/>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other ALQO addresses after it matures.
-To Add: enter percentage to give and ALQO address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other ROBI addresses after it matures.
+To Add: enter percentage to give and ROBI address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
         <translation type="unfinished"></translation>
@@ -1980,12 +1980,12 @@ Please check the address and try again.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>Use 2 separate masternodes to mix funds up to 10000 ALQO</source>
+        <source>Use 2 separate masternodes to mix funds up to 10000 ROBI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>Use 8 separate masternodes to mix funds up to 10000 ALQO</source>
+        <source>Use 8 separate masternodes to mix funds up to 10000 ROBI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1995,12 +1995,12 @@ Please check the address and try again.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>This option is the quickest and will cost about ~0.025 ALQO to anonymize 10000 ALQO</source>
+        <source>This option is the quickest and will cost about ~0.025 ROBI to anonymize 10000 ROBI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>This option is moderately fast and will cost about 0.05 ALQO to anonymize 10000 ALQO</source>
+        <source>This option is moderately fast and will cost about 0.05 ROBI to anonymize 10000 ROBI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2010,7 +2010,7 @@ Please check the address and try again.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>0.1 ALQO per 10000 ALQO you anonymize.</source>
+        <source>0.1 ROBI per 10000 ROBI you anonymize.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2022,17 +2022,17 @@ Please check the address and try again.</source>
     </message>
     <message>
         <location line="-29"/>
-        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening ALQO&apos;s configuration screen.</source>
+        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening ROBI&apos;s configuration screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+15"/>
-        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening ALQO&apos;s configuration screen.</source>
+        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening ROBI&apos;s configuration screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+15"/>
-        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening ALQO&apos;s configuration screen.</source>
+        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening ROBI&apos;s configuration screen.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2108,7 +2108,7 @@ Please check the address and try again.</source>
     </message>
     <message>
         <location line="+33"/>
-        <source>Automatically open the ALQO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the ROBI client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2133,12 +2133,12 @@ Please check the address and try again.</source>
     </message>
     <message>
         <location line="-179"/>
-        <source>Automatically start ALQO after logging in to the system.</source>
+        <source>Automatically start ROBI after logging in to the system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start ALQO on system login</source>
+        <source>&amp;Start ROBI on system login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2158,7 +2158,7 @@ Please check the address and try again.</source>
     </message>
     <message>
         <location line="+15"/>
-        <source>Amount of ALQO to keep anonymized</source>
+        <source>Amount of ROBI to keep anonymized</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2193,13 +2193,13 @@ Please check the address and try again.</source>
     </message>
     <message>
         <location line="+192"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting ALQO.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting ROBI.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/alqo-project/alqo-project-translations</source>
+https://www.transifex.com/robi-project/robi-project-translations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2209,7 +2209,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="+17"/>
-        <source>Connect to the ALQO network through a SOCKS5 proxy.</source>
+        <source>Connect to the ROBI network through a SOCKS5 proxy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2406,7 +2406,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
         <location line="+10"/>
         <location line="+1015"/>
         <location line="+93"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ALQO network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ROBI network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2461,7 +2461,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="+27"/>
-        <source>0 ALQO / 0 Rounds</source>
+        <source>0 ROBI / 0 Rounds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2693,12 +2693,12 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="-118"/>
-        <source>Cannot start alqo: click-to-pay handler</source>
+        <source>Cannot start robi: click-to-pay handler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+126"/>
-        <source>URI cannot be parsed! This can be caused by an invalid ALQO address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid ROBI address or malformed URI parameters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2806,7 +2806,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+113"/>
-        <source>Enter a ALQO address (e.g. %1)</source>
+        <source>Enter a ROBI address (e.g. %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2995,7 +2995,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="+149"/>
-        <source>Open the ALQO debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the ROBI debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3202,7 +3202,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="-35"/>
-        <source>Welcome to the ALQO RPC console.</source>
+        <source>Welcome to the ROBI RPC console.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3293,12 +3293,12 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="-37"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the ALQO network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the ROBI network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+23"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the ALQO network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the ROBI network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3592,7 +3592,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="+7"/>
-        <source>0 ALQO</source>
+        <source>0 ROBI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3652,18 +3652,18 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="-165"/>
-        <source>If the custom fee is set to 1000 uALQOs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uALQOs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uALQOs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 uROBIs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uROBIs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uROBIs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>If the custom fee is set to 1000 uALQOs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uALQOs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uALQOs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 uROBIs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uROBIs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uROBIs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+33"/>
         <location line="+13"/>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for ALQO transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for ROBI transactions than the network can process.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3796,7 +3796,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="+651"/>
-        <source>Warning: Invalid ALQO address</source>
+        <source>Warning: Invalid ROBI address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3935,7 +3935,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="+18"/>
-        <source>The ALQO address to send the payment to</source>
+        <source>The ROBI address to send the payment to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3989,7 +3989,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="+10"/>
-        <source>A message that was attached to the ALQO: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the ALQO network.</source>
+        <source>A message that was attached to the ROBI: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the ROBI network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4024,7 +4024,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+43"/>
-        <source>ALQO Core is shutting down...</source>
+        <source>ROBI Core is shutting down...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4052,7 +4052,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="+18"/>
-        <source>The ALQO address to sign the message with</source>
+        <source>The ROBI address to sign the message with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4094,17 +4094,17 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this ALQO address</source>
+        <source>Sign the message to prove you own this ROBI address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+106"/>
-        <source>The ALQO address the message was signed with</source>
+        <source>The ROBI address the message was signed with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+37"/>
-        <source>Verify the message to ensure it was signed with the specified ALQO address</source>
+        <source>Verify the message to ensure it was signed with the specified ROBI address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4219,7 +4219,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+37"/>
-        <source>ALQO Core</source>
+        <source>ROBI Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4239,7 +4239,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>The ALQO Core developers</source>
+        <source>The ROBI Core developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4947,7 +4947,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     <message>
         <location line="-20"/>
         <location line="+9"/>
-        <source>InstantX doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 ALQO.</source>
+        <source>InstantX doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 ROBI.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5000,9 +5000,9 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
 </context>
 <context>
-    <name>alqo-core</name>
+    <name>robi-core</name>
     <message>
-        <location filename="../alqostrings.cpp" line="+12"/>
+        <location filename="../robistrings.cpp" line="+12"/>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation type="unfinished">(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</translation>
     </message>
@@ -5033,7 +5033,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="+4"/>
-        <source>Cannot obtain a lock on data directory %s. ALQO Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. ROBI Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5058,7 +5058,7 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="+3"/>
-        <source>Disable all ALQO specific functionality (Masternodes, Darksend, InstantX, Budgeting) (0-1, default: %u)</source>
+        <source>Disable all ROBI specific functionality (Masternodes, Darksend, InstantX, Budgeting) (0-1, default: %u)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5108,12 +5108,12 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="+3"/>
-        <source>Fees (in ALQO/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <source>Fees (in ROBI/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Fees (in ALQO/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <source>Fees (in ROBI/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5243,22 +5243,22 @@ https://www.transifex.com/alqo-project/alqo-project-translations</source>
     </message>
     <message>
         <location line="+4"/>
-        <source>To use alqod, or the -server option to alqo-qt, you must set an rpcpassword in the configuration file:
+        <source>To use robid, or the -server option to robi-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=alqorpc
+rpcuser=robirpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;ROBI Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>Unable to bind to %s on this computer. ALQO Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. ROBI Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5268,12 +5268,12 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+2"/>
-        <source>Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 10000 ALQO.</source>
+        <source>Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 10000 ROBI.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 ALQO.</source>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 ROBI.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5293,7 +5293,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ALQO Core will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ROBI Core will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5333,8 +5333,8 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>(55500 could be used only on mainnet)</source>
-        <translation type="unfinished">(55500 could be used only on mainnet)</translation>
+        <source>(9898 could be used only on mainnet)</source>
+        <translation type="unfinished">(9898 could be used only on mainnet)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5348,7 +5348,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>(must be 55500 for mainnet)</source>
+        <source>(must be 9898 for mainnet)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5490,7 +5490,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2015-%i The ALQO Core Developers</source>
+        <source>Copyright (C) 2017-%i The ROBI Core Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5580,7 +5580,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of ALQO Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of ROBI Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5645,7 +5645,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Fee (in ALQO/kB) to add to transactions you send (default: %s)</source>
+        <source>Fee (in ROBI/kB) to add to transactions you send (default: %s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5720,7 +5720,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. ALQO Core is shutting down.</source>
+        <source>Initialization sanity check failed. ROBI Core is shutting down.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5810,7 +5810,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Keep N ALQO anonymized (default: %u)</source>
+        <source>Keep N ROBI anonymized (default: %u)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6440,7 +6440,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart ALQO Core to complete</source>
+        <source>Wallet needed to be rewritten: restart ROBI Core to complete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6576,7 +6576,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+12"/>
-        <source>Buy ALQO</source>
+        <source>Buy ROBI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6589,7 +6589,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
         <location line="-1108"/>
         <location line="+1192"/>
         <location line="+517"/>
-        <source>ALQO</source>
+        <source>ROBI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6645,13 +6645,13 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+177"/>
-        <source>Sell ALQO</source>
+        <source>Sell ROBI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+26"/>
         <location line="+1036"/>
-        <source>ALQO Available:</source>
+        <source>ROBI Available:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6681,7 +6681,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+44"/>
-        <source>ALQO Balance:</source>
+        <source>ROBI Balance:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6691,7 +6691,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+51"/>
-        <source>ALQO Pending:</source>
+        <source>ROBI Pending:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6701,12 +6701,12 @@ for example: alertnotify=echo %%s | mail -s &quot;ALQO Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+32"/>
-        <source>Bittrex ALQO Deposit Address:</source>
+        <source>Bittrex ROBI Deposit Address:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>Generate ALQO Deposit Address</source>
+        <source>Generate ROBI Deposit Address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

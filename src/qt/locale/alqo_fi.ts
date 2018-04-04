@@ -62,12 +62,12 @@
         <translation>Vastaanottava osoite</translation>
     </message>
     <message>
-        <source>These are your ALQO addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Nämä ovat ALQO osoitteesi maksujen lähetykseen. Tarkista aina lähetettävä määrä ja vastaanottajan osoite ennen kuin lähetät varoja.</translation>
+        <source>These are your ROBI addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Nämä ovat ROBI osoitteesi maksujen lähetykseen. Tarkista aina lähetettävä määrä ja vastaanottajan osoite ennen kuin lähetät varoja.</translation>
     </message>
     <message>
-        <source>These are your ALQO addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Nämä ovat ALQO osoitteesi suoritusten vastaanottamiseen. Suositellaan että annat uuden osoitteen kullekin siirtotapahtumalle.</translation>
+        <source>These are your ROBI addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Nämä ovat ROBI osoitteesi suoritusten vastaanottamiseen. Suositellaan että annat uuden osoitteen kullekin siirtotapahtumalle.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -188,8 +188,8 @@
         <translation>Lompakko salattu</translation>
     </message>
     <message>
-        <source>ALQO will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alqos from being stolen by malware infecting your computer.</source>
-        <translation>ALQO sulkeutuu nyt salauksen viimeistelyä varten. Muista että salaus pelkästään ei voi estää ALQOiesi varastamista jos koneesi saastuu haittaohjelmilla tai viruksilla.</translation>
+        <source>ROBI will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your robis from being stolen by malware infecting your computer.</source>
+        <translation>ROBI sulkeutuu nyt salauksen viimeistelyä varten. Muista että salaus pelkästään ei voi estää ROBIiesi varastamista jos koneesi saastuu haittaohjelmilla tai viruksilla.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -231,8 +231,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>ALQO Core</source>
-        <translation>ALQO Core</translation>
+        <source>ROBI Core</source>
+        <translation>ROBI Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -255,16 +255,16 @@
         <translation>L&amp;ähetä</translation>
     </message>
     <message>
-        <source>Send coins to a ALQO address</source>
-        <translation>Lähetä varoja ALQO osoitteeseen</translation>
+        <source>Send coins to a ROBI address</source>
+        <translation>Lähetä varoja ROBI osoitteeseen</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
         <translation>&amp;Vastaanota</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alqo: URIs)</source>
-        <translation>Pyydä maksuja (Luo QR koodit ja ALQO: URIt)</translation>
+        <source>Request payments (generates QR codes and robi: URIs)</source>
+        <translation>Pyydä maksuja (Luo QR koodit ja ROBI: URIt)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -283,12 +283,12 @@
         <translation>Sulje ohjelma</translation>
     </message>
     <message>
-        <source>&amp;About ALQO Core</source>
-        <translation>Tietoja &amp;ALQO Core:sta</translation>
+        <source>&amp;About ROBI Core</source>
+        <translation>Tietoja &amp;ROBI Core:sta</translation>
     </message>
     <message>
-        <source>Show information about ALQO Core</source>
-        <translation>Näytä tietoja ALQO Core:sta</translation>
+        <source>Show information about ROBI Core</source>
+        <translation>Näytä tietoja ROBI Core:sta</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -303,8 +303,8 @@
         <translation>&amp;Asetukset...</translation>
     </message>
     <message>
-        <source>Modify configuration options for ALQO</source>
-        <translation>Muuta ALQO asetuksia</translation>
+        <source>Modify configuration options for ROBI</source>
+        <translation>Muuta ROBI asetuksia</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -312,7 +312,7 @@
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Näytä tai piilota ALQO pääikkuna</translation>
+        <translation>Näytä tai piilota ROBI pääikkuna</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
@@ -355,16 +355,16 @@
         <translation>&amp;Allekirjoita Viesti...</translation>
     </message>
     <message>
-        <source>Sign messages with your ALQO addresses to prove you own them</source>
-        <translation>Allekirjoita viestit ALQO osoitteillasi todistaaksesi että omistat ne</translation>
+        <source>Sign messages with your ROBI addresses to prove you own them</source>
+        <translation>Allekirjoita viestit ROBI osoitteillasi todistaaksesi että omistat ne</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Tarkista Viesti...</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified ALQO addresses</source>
-        <translation>Tarkista viestit ollaksesi varma että ne on allekirjoitettu määritetyillä ALQO osoitteilla</translation>
+        <source>Verify messages to ensure they were signed with specified ROBI addresses</source>
+        <translation>Tarkista viestit ollaksesi varma että ne on allekirjoitettu määritetyillä ROBI osoitteilla</translation>
     </message>
     <message>
         <source>&amp;Information</source>
@@ -443,16 +443,16 @@
         <translation>Avaa &amp;URI...</translation>
     </message>
     <message>
-        <source>Open a alqo: URI or payment request</source>
-        <translation>Avaa ALQO: URI tai maksupyyntö</translation>
+        <source>Open a robi: URI or payment request</source>
+        <translation>Avaa ROBI: URI tai maksupyyntö</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Komentorivin valinnat</translation>
     </message>
     <message>
-        <source>ALQO Core client</source>
-        <translation>ALQO Core asiakasohjelma</translation>
+        <source>ROBI Core client</source>
+        <translation>ROBI Core asiakasohjelma</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n blocks of transaction history.</source>
@@ -463,8 +463,8 @@
         <translation>Synkronoidaan lisätietoja: %p%</translation>
     </message>
     <message>
-        <source>Show the ALQO Core help message to get a list with possible ALQO command-line options</source>
-        <translation>Näytä ALQO Core ohjelista komentorivin valinnoista</translation>
+        <source>Show the ROBI Core help message to get a list with possible ROBI command-line options</source>
+        <translation>Näytä ROBI Core ohjelista komentorivin valinnoista</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -487,8 +487,8 @@
         <translation>Välilehtipalkki</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to ALQO network</source>
-        <translation><numerusform>%n aktiivinen yhteys ALQO verkkoon</numerusform><numerusform>%n aktiivista yhteyttä ALQO verkkoon</numerusform></translation>
+        <source>%n active connection(s) to ROBI network</source>
+        <translation><numerusform>%n aktiivinen yhteys ROBI verkkoon</numerusform><numerusform>%n aktiivista yhteyttä ROBI verkkoon</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -896,16 +896,16 @@ Osoite: %4
         <translation>Obfuscate Asetukset</translation>
     </message>
     <message>
-        <source>Obfuscate was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening ALQO's configuration screen.</source>
-        <translation>Obfuscate on asetettu perusasetuksiin (%1 and 2 kierrosta). Voit muuttaa asetuksia milloin vain ALQO asetuksista.</translation>
+        <source>Obfuscate was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening ROBI's configuration screen.</source>
+        <translation>Obfuscate on asetettu perusasetuksiin (%1 and 2 kierrosta). Voit muuttaa asetuksia milloin vain ROBI asetuksista.</translation>
     </message>
     <message>
-        <source>Obfuscate was successfully set to high (%1 and 8 rounds). You can change this at any time by opening ALQO's configuration screen.</source>
-        <translation>Obfuscate on asetettu keskitason asetuksiin (%1 and 8 kierrosta). Voit muuttaa asetuksia milloin vain ALQO asetuksista.</translation>
+        <source>Obfuscate was successfully set to high (%1 and 8 rounds). You can change this at any time by opening ROBI's configuration screen.</source>
+        <translation>Obfuscate on asetettu keskitason asetuksiin (%1 and 8 kierrosta). Voit muuttaa asetuksia milloin vain ROBI asetuksista.</translation>
     </message>
     <message>
-        <source>Obfuscate was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening ALQO's configuration screen.</source>
-        <translation>Obfuscate on asetettu maksimitason asetuksiin (%1 and 16 kierrosta). Voit muuttaa asetuksia milloin vain ALQO asetuksista.</translation>
+        <source>Obfuscate was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening ROBI's configuration screen.</source>
+        <translation>Obfuscate on asetettu maksimitason asetuksiin (%1 and 16 kierrosta). Voit muuttaa asetuksia milloin vain ROBI asetuksista.</translation>
     </message>
 </context>
 <context>
@@ -947,8 +947,8 @@ Osoite: %4
         <translation>Muokkaa lähettävää osoitetta</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid ALQO address.</source>
-        <translation>Annettu osoite "%1" ei ole pätevä ALQO osoite.</translation>
+        <source>The entered address "%1" is not a valid ROBI address.</source>
+        <translation>Annettu osoite "%1" ei ole pätevä ROBI osoite.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -989,8 +989,8 @@ Osoite: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>ALQO Core</source>
-        <translation>ALQO Core</translation>
+        <source>ROBI Core</source>
+        <translation>ROBI Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -1001,8 +1001,8 @@ Osoite: %4
         <translation>(%1-bittinen)</translation>
     </message>
     <message>
-        <source>About ALQO Core</source>
-        <translation>Tietoja ALQO Core:sta</translation>
+        <source>About ROBI Core</source>
+        <translation>Tietoja ROBI Core:sta</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1048,17 +1048,17 @@ Osoite: %4
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to ALQO Core.</source>
-        <translation>ALQO Core - Tervetuloa.</translation>
+        <source>Welcome to ROBI Core.</source>
+        <translation>ROBI Core - Tervetuloa.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where ALQO Core will store its data.</source>
-        <translation>Koska tämä on ensimmäinen kerta kun ohjelma käynnistetään, voit valita minne ALQO Core tallettaa datansa.
+        <source>As this is the first time the program is launched, you can choose where ROBI Core will store its data.</source>
+        <translation>Koska tämä on ensimmäinen kerta kun ohjelma käynnistetään, voit valita minne ROBI Core tallettaa datansa.
 Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd levyltä, ohjaa talletettava data eri levyasemalle turvalliseen paikkaan.</translation>
     </message>
     <message>
-        <source>ALQO Core will download and store a copy of the ALQO block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>ALQO Core lataa ja tallettaa kopion lohkoketjusta. Vähintään %1GB dataa talletetaan tähän hakemistoon, ja se myös kasvaa ajan myötä. Myös lompakko talletetaan tähän hakemistoon.</translation>
+        <source>ROBI Core will download and store a copy of the ROBI block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>ROBI Core lataa ja tallettaa kopion lohkoketjusta. Vähintään %1GB dataa talletetaan tähän hakemistoon, ja se myös kasvaa ajan myötä. Myös lompakko talletetaan tähän hakemistoon.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1069,8 +1069,8 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
         <translation>Määritä oma hakemisto:</translation>
     </message>
     <message>
-        <source>ALQO Core</source>
-        <translation>ALQO Core</translation>
+        <source>ROBI Core</source>
+        <translation>ROBI Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1123,12 +1123,12 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
         <translation>&amp;Yleiset</translation>
     </message>
     <message>
-        <source>Automatically start ALQO after logging in to the system.</source>
-        <translation>Käynnistä ALQO automaattisesti kun järjestelmään kirjaudutaan.</translation>
+        <source>Automatically start ROBI after logging in to the system.</source>
+        <translation>Käynnistä ROBI automaattisesti kun järjestelmään kirjaudutaan.</translation>
     </message>
     <message>
-        <source>&amp;Start ALQO on system login</source>
-        <translation>&amp;Käynnistä ALQO järjestelmään kirjauduttaessa</translation>
+        <source>&amp;Start ROBI on system login</source>
+        <translation>&amp;Käynnistä ROBI järjestelmään kirjauduttaessa</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1155,8 +1155,8 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
         <translation>Tämä määrä toimii rajana keskeytykselle kun Obfuscate anonymisointi sen saavuttaa.</translation>
     </message>
     <message>
-        <source>Amount of ALQO to keep anonymized</source>
-        <translation>ALQO määrä joka pidetään anonymisoituna</translation>
+        <source>Amount of ROBI to keep anonymized</source>
+        <translation>ROBI määrä joka pidetään anonymisoituna</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -1175,8 +1175,8 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
         <translation>Salli sisään tulevat yhteydet</translation>
     </message>
     <message>
-        <source>Connect to the ALQO network through a SOCKS5 proxy.</source>
-        <translation>Kytkeydy ALQO verkkoon käyttäen SOCKS5 proxy:a.</translation>
+        <source>Connect to the ROBI network through a SOCKS5 proxy.</source>
+        <translation>Kytkeydy ROBI verkkoon käyttäen SOCKS5 proxy:a.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1207,8 +1207,8 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
         <translation>&amp;Verkko</translation>
     </message>
     <message>
-        <source>Automatically open the ALQO client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa automaattisesti ALQO asiakasohjelmalle portti reitittimeen. Tämä toimii vain jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
+        <source>Automatically open the ROBI client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa automaattisesti ROBI asiakasohjelmalle portti reitittimeen. Tämä toimii vain jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1244,7 +1244,7 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
     </message>
     <message>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Ikkunaa suljettaessa pienennä ALQO asiakasohjelman ikkuna lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
+        <translation>Ikkunaa suljettaessa pienennä ROBI asiakasohjelman ikkuna lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
     </message>
     <message>
         <source>M&amp;inimize on close</source>
@@ -1259,14 +1259,14 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
         <translation>&amp;Käyttöliittymän kieli</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting ALQO.</source>
-        <translation>Käyttöliittymän kieli asetetaan tässä, Asetus tulee voimaan kun ALQO asiakasohjelma käynnistetään uudelleen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting ROBI.</source>
+        <translation>Käyttöliittymän kieli asetetaan tässä, Asetus tulee voimaan kun ROBI asiakasohjelma käynnistetään uudelleen.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</source>
+https://www.transifex.com/robi-crypto/robi-wallet-translations/</source>
         <translation>Puuttuuko sopiva kieli tai käännös on kesken? Auta käännöstyössä täällä:
-https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
+https://www.transifex.com/robi-crypto/robi-wallet-translations/</translation>
     </message>
     <message>
         <source>User Interface Theme:</source>
@@ -1348,8 +1348,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Lomake</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ALQO network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytetyt tiedot eivät välttämättä ole ajan tasalla.&lt;br&gt;Lompakkosi synkronoituu automaattisesti ALQO verkkoon kun&lt;br&gt;yhteys on muodostettu, mutta tämä prosessi ei vielä ole valmis.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ROBI network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytetyt tiedot eivät välttämättä ole ajan tasalla.&lt;br&gt;Lompakkosi synkronoituu automaattisesti ROBI verkkoon kun&lt;br&gt;yhteys on muodostettu, mutta tämä prosessi ei vielä ole valmis.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1569,8 +1569,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Maksupyyntövirhe</translation>
     </message>
     <message>
-        <source>Cannot start alqo: click-to-pay handler</source>
-        <translation>Ei voi käynnistää ALQOia: click-to-pay handler</translation>
+        <source>Cannot start robi: click-to-pay handler</source>
+        <translation>Ei voi käynnistää ROBIia: click-to-pay handler</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1589,8 +1589,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Virheellinen maksuosoite %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid ALQO address or malformed URI parameters.</source>
-        <translation>URI:a ei voida jäsentää! Tämä voi johtua virheellisestä ALQO osoitteesta tai virheellisestä URI:n muuttujasta. </translation>
+        <source>URI cannot be parsed! This can be caused by an invalid ROBI address or malformed URI parameters.</source>
+        <translation>URI:a ei voida jäsentää! Tämä voi johtua virheellisestä ROBI osoitteesta tai virheellisestä URI:n muuttujasta. </translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -1675,8 +1675,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Määrä</translation>
     </message>
     <message>
-        <source>Enter a ALQO address (e.g. %1)</source>
-        <translation>Syötä ALQO osoite (esim. %1)</translation>
+        <source>Enter a ROBI address (e.g. %1)</source>
+        <translation>Syötä ROBI osoite (esim. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1765,8 +1765,8 @@ https://www.transifex.com/alqo-crypto/alqo-wallet-translations/</translation>
         <translation>Yhteyksien määrä</translation>
     </message>
     <message>
-        <source>Open the ALQO debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa ALQO debug lokitiedosto nykyisestä datahakemistosta. Tämä saattaa kestää muutaman sekunnin isoilla tiedostoilla.</translation>
+        <source>Open the ROBI debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa ROBI debug lokitiedosto nykyisestä datahakemistosta. Tämä saattaa kestää muutaman sekunnin isoilla tiedostoilla.</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -1977,8 +1977,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Ulos:</translation>
     </message>
     <message>
-        <source>Welcome to the ALQO RPC console.</source>
-        <translation>Tervetuloa ALQO RPC konsoliin.</translation>
+        <source>Welcome to the ROBI RPC console.</source>
+        <translation>Tervetuloa ROBI RPC konsoliin.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2040,8 +2040,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>&amp;Uudelleenkäytä vastaanottavaa osoitetta (ei suositella)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the ALQO network.</source>
-        <translation>Valinnainen viesti liitettäväksi maksupyyntöön, joka näytetään kun pyyntö on avattu.&lt;br&gt;Huomio: Viestiä ei lähetetä maksun mukana ALQO verkkoon.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the ROBI network.</source>
+        <translation>Valinnainen viesti liitettäväksi maksupyyntöön, joka näytetään kun pyyntö on avattu.&lt;br&gt;Huomio: Viestiä ei lähetetä maksun mukana ROBI verkkoon.</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -2052,8 +2052,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Valinnainen nimi liitetään uuteen vastaanottavaan osoitteeseen.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the ALQO network.</source>
-        <translation>Valinnainen viesti liitettäväksi maksupyyntöön, joka näytetään kun pyyntö on avattu.&lt;br&gt;Huomio: Viestiä ei lähetetä maksun mukana ALQO verkkoon.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the ROBI network.</source>
+        <translation>Valinnainen viesti liitettäväksi maksupyyntöön, joka näytetään kun pyyntö on avattu.&lt;br&gt;Huomio: Viestiä ei lähetetä maksun mukana ROBI verkkoon.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -2297,7 +2297,7 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Jos mukautettu siirtomaksu on asetettu 1000 duff ja siirtotapahtuma on vain 250 tavua,&lt;br /&gt;tällöin "per kilotavu" maksaa vain 250 duffs siirtomaksun, kun taas "yhteensä vähintään" maksaa 1000 duffs.&lt;br /&gt;Siirtotapahtumat jotka ovat isompia kuin kilotavu, molemmat maksaa "per kilotavu".</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for alqo transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for robi transactions than the network can process.</source>
         <translation>Minimi siirtomaksun maksaminen on ok niin kauan kun siirtotapahtumien määrä on pienempi kuin tila lohkoissa.&lt;br /&gt;Mutta ota huomioon että tämä voi johtaa siirtotapahtumaan jota ei vahvisteta koskaan, jos siirtotapahtumia on enemmän kuin verkko voi käsitellä.</translation>
     </message>
     <message>
@@ -2501,8 +2501,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Maksa vain minimi siirtomaksu %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid ALQO address</source>
-        <translation>Varoitus: Virheellinen ALQO osoite</translation>
+        <source>Warning: Invalid ROBI address</source>
+        <translation>Varoitus: Virheellinen ROBI osoite</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2524,8 +2524,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Maksun &amp;saaja:</translation>
     </message>
     <message>
-        <source>The ALQO address to send the payment to</source>
-        <translation>ALQO osoite johon maksu lähetetään</translation>
+        <source>The ROBI address to send the payment to</source>
+        <translation>ROBI osoite johon maksu lähetetään</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2564,8 +2564,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Viesti:</translation>
     </message>
     <message>
-        <source>A message that was attached to the alqo: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the ALQO network.</source>
-        <translation>Viesti joka liitettiin ALQO: URI joka talletetaan siirtotapahtuman kanssa viitteeksi sinulle. Huomio: Tätä viestiä ei lähetetä ALQO verkkoon.</translation>
+        <source>A message that was attached to the robi: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the ROBI network.</source>
+        <translation>Viesti joka liitettiin ROBI: URI joka talletetaan siirtotapahtuman kanssa viitteeksi sinulle. Huomio: Tätä viestiä ei lähetetä ROBI verkkoon.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2591,8 +2591,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>ALQO Core is shutting down...</source>
-        <translation>ALQO Core sulkeutuu...</translation>
+        <source>ROBI Core is shutting down...</source>
+        <translation>ROBI Core sulkeutuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2614,8 +2614,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Voit allekirjoittaa viestit omilla osoitteillasi todistaaksesi että omistat ne. Ole huolellinen että et allekirjoita mitään epämääräistä, phishing-hyökkäjä voi huijata sinua allekirjoittamaan henkilöllisyytesi omasta puolestaan. Allekirjoita vain yksityiskohtaisesti täytetty selvitys johon sitoudut.</translation>
     </message>
     <message>
-        <source>The ALQO address to sign the message with</source>
-        <translation>ALQO osoite jolla viesti allekirjoitetaan</translation>
+        <source>The ROBI address to sign the message with</source>
+        <translation>ROBI osoite jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2646,8 +2646,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Kopioi tämän hetkinen allekirjoitus leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this ALQO address</source>
-        <translation>Allekirjoita viesti todistaaksesi että omistat tämän ALQO osoitteen</translation>
+        <source>Sign the message to prove you own this ROBI address</source>
+        <translation>Allekirjoita viesti todistaaksesi että omistat tämän ROBI osoitteen</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2670,12 +2670,12 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Syötä allekirjoittava osoite, viesti ja allekirjoitus alla oleviin kenttiin varmistaaksesi allekirjoituksen aitouden. Varmista että kopioit kaikki kentät täsmälleen oikein, myös rivinvaihdot, välilyönnit, tabulaattorit, jne.</translation>
     </message>
     <message>
-        <source>The ALQO address the message was signed with</source>
-        <translation>ALQO osoite jolla viesti on allekirjoitettu</translation>
+        <source>The ROBI address the message was signed with</source>
+        <translation>ROBI osoite jolla viesti on allekirjoitettu</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified ALQO address</source>
-        <translation>Tarkista että viesti on allekirjoitettu määritetyllä ALQO osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified ROBI address</source>
+        <translation>Tarkista että viesti on allekirjoitettu määritetyllä ROBI osoitteella</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2741,8 +2741,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>ALQO Core</source>
-        <translation>ALQO Core</translation>
+        <source>ROBI Core</source>
+        <translation>ROBI Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2753,8 +2753,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Bitcoin Core kehittäjät</translation>
     </message>
     <message>
-        <source>The ALQO Core developers</source>
-        <translation>ALQO Core kehittäjät</translation>
+        <source>The ROBI Core developers</source>
+        <translation>ROBI Core kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3086,7 +3086,7 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
     </message>
     <message>
         <source>Destination address of transaction.</source>
-        <translation>Siirtotapahtuman ALQO kohdeosoite</translation>
+        <translation>Siirtotapahtuman ROBI kohdeosoite</translation>
     </message>
     <message>
         <source>Amount removed from or added to balance.</source>
@@ -3278,7 +3278,7 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Lähetä ALQOeja</translation>
+        <translation>Lähetä ROBIeja</translation>
     </message>
     <message>
         <source>InstantX doesn't support sending values that high yet. Transactions are currently limited to %1 DNET.</source>
@@ -3325,14 +3325,14 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
     </message>
 </context>
 <context>
-    <name>alqo-core</name>
+    <name>robi-core</name>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
         <translation>Kytkeydy annettuun osoitteeseen ja pidä linja aina auki. Käytä [host]:port merkintätapaa IPv6:lle.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. ALQO Core is probably already running.</source>
-        <translation>Ei voida lukita data hakemistoa %s. ALQO Core on luultavasti jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s. ROBI Core is probably already running.</source>
+        <translation>Ei voida lukita data hakemistoa %s. ROBI Core on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Obfuscate uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
@@ -3387,8 +3387,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Tämä on esi-julkaistu testiversio - Käytä omalla vastuulla - Älä käytä louhimiseen tai kauppasovelluksiin.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. ALQO Core is probably already running.</source>
-        <translation>Ei voida yhdistää %s tässä tietokoneessa. ALQO Core on luultavasti jo käynnissä.</translation>
+        <source>Unable to bind to %s on this computer. ROBI Core is probably already running.</source>
+        <translation>Ei voida yhdistää %s tässä tietokoneessa. ROBI Core on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscate denominated funds for this transaction.</source>
@@ -3404,7 +3404,7 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
-        <translation>Varoitus: ALQO verkossa on ristiriitoja! Louhijat näyttävät kokevan virhetilanteita.</translation>
+        <translation>Varoitus: ROBI verkossa on ristiriitoja! Louhijat näyttävät kokevan virhetilanteita.</translation>
     </message>
     <message>
         <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>
@@ -3619,8 +3619,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Poista kaikki lompakon siirtotapahtumat ja palauta vain nuo osat lohkoketjusta -rescan valinnan avulla käynnistyksessä</translation>
     </message>
     <message>
-        <source>Disable all ALQO specific functionality (Masternodes, Obfuscate, InstantX, Budgeting) (0-1, default: %u)</source>
-        <translation>Kytke pois käytöstä kaikki ALQO:in erityistoiminnot (Masternodet, Obfuscate, InstantX, Budjetointi) (0-1, oletus: %u)</translation>
+        <source>Disable all ROBI specific functionality (Masternodes, Obfuscate, InstantX, Budgeting) (0-1, default: %u)</source>
+        <translation>Kytke pois käytöstä kaikki ROBI:in erityistoiminnot (Masternodet, Obfuscate, InstantX, Budjetointi) (0-1, oletus: %u)</translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
@@ -3717,27 +3717,27 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
 Käännös päivitetty: 1.9.2015 by AjM.</translation>
     </message>
     <message>
-        <source>To use alqod, or the -server option to alqo-qt, you must set an rpcpassword in the configuration file:
+        <source>To use robid, or the -server option to robi-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=alqorpc
+rpcuser=robirpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "ALQO Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "ROBI Alert" admin@foo.com
 </source>
-        <translation>Käyttääksesi alqod:ia tai -server valintaa alqo-qt:lle, sinun tulee asettaa rpc salasana asetustiedostossa:
+        <translation>Käyttääksesi robid:ia tai -server valintaa robi-qt:lle, sinun tulee asettaa rpc salasana asetustiedostossa:
 %s
 Suositellaan että käytät allaolevaa satunnaista salasanaa:
-rpcuser=alqorpc
+rpcuser=robirpc
 rpcpassword=%s
 (sinun ei tarvitse muistaa tätä salasanaa)
 Käyttäjätunnus ja salasana on oltava ERILAISET.
 Jos tiedostoa ei ole, luo se vain omistajan-luku-oikeudella.
 Suositellaan asetettavaksi alertnotify jotta saat tietoa ongelmista,
-esimerkiksi: alertnotify=echo %%s | mail -s "ALQO Hälytys" admin@foo.com
+esimerkiksi: alertnotify=echo %%s | mail -s "ROBI Hälytys" admin@foo.com
 </translation>
     </message>
     <message>
@@ -3753,8 +3753,8 @@ esimerkiksi: alertnotify=echo %%s | mail -s "ALQO Hälytys" admin@foo.com
         <translation>Varoitus: -maxtxfee on asetettu erittäin korkeaksi! Näin isot siirtomaksut voitaisiin maksaa yhdessä siirtotapahtumassa.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong ALQO Core will not work properly.</source>
-        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat oikein! ALQO ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong ROBI Core will not work properly.</source>
+        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat oikein! ROBI ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
     </message>
     <message>
         <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>
@@ -3765,8 +3765,8 @@ esimerkiksi: alertnotify=echo %%s | mail -s "ALQO Hälytys" admin@foo.com
         <translation>Luotettaviksi merkittyjä peers:ejä ei voida DoS estää, ja niiden siirtotapahtumat välitetään aina, vaikka ne olisvatkin jo muistivarannossa, käyttökelpoinen esim. yhdyskäytävään</translation>
     </message>
     <message>
-        <source>(55500 could be used only on mainnet)</source>
-        <translation>(55500 voidaan käyttää vain pääverkossa)</translation>
+        <source>(9898 could be used only on mainnet)</source>
+        <translation>(9898 voidaan käyttää vain pääverkossa)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -3807,8 +3807,8 @@ esimerkiksi: alertnotify=echo %%s | mail -s "ALQO Hälytys" admin@foo.com
         <translation>Copyright (C) 2009-%i Bitcoin Core Kehittäjät</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The ALQO Core Developers</source>
-        <translation>Copyright (C) 2014-%i ALQO Core Kehittäjät</translation>
+        <source>Copyright (C) 2014-%i The ROBI Core Developers</source>
+        <translation>Copyright (C) 2014-%i ROBI Core Kehittäjät</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
@@ -3839,8 +3839,8 @@ esimerkiksi: alertnotify=echo %%s | mail -s "ALQO Hälytys" admin@foo.com
         <translation>Virhe masternode:en kytkeytymisessä.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of ALQO Core</source>
-        <translation>Virhe ladattaessa wallet.dat: Lompakko vaatii uudemman version ALQO Core:sta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of ROBI Core</source>
+        <translation>Virhe ladattaessa wallet.dat: Lompakko vaatii uudemman version ROBI Core:sta</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occured, see debug.log for details</source>
@@ -3911,8 +3911,8 @@ esimerkiksi: alertnotify=echo %%s | mail -s "ALQO Hälytys" admin@foo.com
         <translation>Tietoa</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. ALQO Core is shutting down.</source>
-        <translation>Alkuperäisyyden tarkistus epäonnistui. ALQO Core sulkeutuu.</translation>
+        <source>Initialization sanity check failed. ROBI Core is shutting down.</source>
+        <translation>Alkuperäisyyden tarkistus epäonnistui. ROBI Core sulkeutuu.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4163,8 +4163,8 @@ esimerkiksi: alertnotify=echo %%s | mail -s "ALQO Hälytys" admin@foo.com
         <translation>Käytä UPnP:tä kuunneltavan portin kartoitukseen (oletus: %u)</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart ALQO Core to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä ALQO Core uudestaan viimeistelyä varten</translation>
+        <source>Wallet needed to be rewritten: restart ROBI Core to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä ROBI Core uudestaan viimeistelyä varten</translation>
     </message>
     <message>
         <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>
@@ -4183,8 +4183,8 @@ esimerkiksi: alertnotify=echo %%s | mail -s "ALQO Hälytys" admin@foo.com
         <translation>Virheellinen masternoden yksityisavain (masternodeprivkey). Katso lisätietoja dokumentaatiosta.</translation>
     </message>
     <message>
-        <source>(must be55500 for mainnet)</source>
-        <translation>(oltava55500 pääverkossa)</translation>
+        <source>(must be9898 for mainnet)</source>
+        <translation>(oltava9898 pääverkossa)</translation>
     </message>
     <message>
         <source>Can't find random Masternode.</source>

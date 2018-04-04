@@ -41,12 +41,12 @@
         <file alias="tx_input">res/icons/tx_input.png</file>
         <file alias="tx_output">res/icons/tx_output.png</file>
         <file alias="tx_inout">res/icons/tx_inout.png</file>
-        <file alias="unit_alqo">res/icons/unit_alqo.png</file>
-        <file alias="unit_malqo">res/icons/unit_malqo.png</file>
-        <file alias="unit_ualqo">res/icons/unit_ualqo.png</file>
-        <file alias="unit_talqo">res/icons/unit_talqo.png</file>
-        <file alias="unit_tmalqo">res/icons/unit_tmalqo.png</file>
-        <file alias="unit_tualqo">res/icons/unit_tualqo.png</file>
+        <file alias="unit_robi">res/icons/unit_robi.png</file>
+        <file alias="unit_mrobi">res/icons/unit_mrobi.png</file>
+        <file alias="unit_urobi">res/icons/unit_urobi.png</file>
+        <file alias="unit_trobi">res/icons/unit_trobi.png</file>
+        <file alias="unit_tmrobi">res/icons/unit_tmrobi.png</file>
+        <file alias="unit_turobi">res/icons/unit_turobi.png</file>
         <file alias="lock_closed">res/icons/lock_closed.png</file>
         <file alias="lock_open">res/icons/lock_open.png</file>
         <file alias="key">res/icons/key.png</file>
@@ -64,7 +64,7 @@
     </qresource>
     <qresource prefix="/images">
         <file alias="about">res/images/about.png</file>
-        <file alias="alqo_logo_horizontal">res/images/alqo_logo_horizontal.png</file>
+        <file alias="robi_logo_horizontal">res/images/robi_logo_horizontal.png</file>
         <file alias="downArrow">res/images/downArrow.png</file>
         <file alias="downArrow_small">res/images/downArrow_small.png</file>
         <file alias="upArrow_small">res/images/upArrow_small.png</file>

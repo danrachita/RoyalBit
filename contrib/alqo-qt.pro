@@ -78,7 +78,7 @@ HEADERS += src/activemasternode.h \
            src/crypter.h \
            src/Darksend-relay.h \
            src/Darksend.h \
-           src/alqo-config.h \
+           src/robi-config.h \
            src/db.h \
            src/eccryptoverify.h \
            src/ecwrapper.h \
@@ -131,7 +131,7 @@ HEADERS += src/activemasternode.h \
            src/wallet_ismine.h \
            src/walletdb.h \
            src/compat/sanity.h \
-           src/config/alqo-config.h \
+           src/config/robi-config.h \
            src/crypto/common.h \
            src/crypto/hmac_sha256.h \
            src/crypto/hmac_sha512.h \
@@ -334,7 +334,7 @@ HEADERS += src/activemasternode.h \
            src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.h \
            src/crypto/aes_helper.c \
            src/qt/bitcoinamountfield.moc \
-           src/qt/alqo.moc \
+           src/qt/robi.moc \
            src/qt/intro.moc \
            src/qt/overviewpage.moc \
 		   src/qt/coinmix.moc \
@@ -377,9 +377,9 @@ SOURCES += src/activemasternode.cpp \
            src/crypter.cpp \
            src/Darksend-relay.cpp \
            src/Darksend.cpp \
-           src/alqo-cli.cpp \
-           src/alqo-tx.cpp \
-           src/alqo.cpp \
+           src/robi-cli.cpp \
+           src/robi-tx.cpp \
+           src/robi.cpp \
            src/db.cpp \
            src/eccryptoverify.cpp \
            src/ecwrapper.cpp \
@@ -474,8 +474,8 @@ SOURCES += src/activemasternode.cpp \
            src/qt/coincontroltreewidget.cpp \
            src/qt/csvmodelwriter.cpp \
            src/qt/Darksendconfig.cpp \
-           src/qt/alqo.cpp \
-           src/qt/alqostrings.cpp \
+           src/qt/robi.cpp \
+           src/qt/robistrings.cpp \
            src/qt/editaddressdialog.cpp \
            src/qt/guiutil.cpp \
            src/qt/intro.cpp \
@@ -554,7 +554,7 @@ SOURCES += src/activemasternode.cpp \
            src/test/sighash_tests.cpp \
            src/test/sigopcount_tests.cpp \
            src/test/skiplist_tests.cpp \
-           src/test/test_alqo.cpp \
+           src/test/test_robi.cpp \
            src/test/timedata_tests.cpp \
            src/test/transaction_tests.cpp \
            src/test/uint256_tests.cpp \
@@ -645,21 +645,21 @@ SOURCES += src/activemasternode.cpp \
            src/leveldb/helpers/memenv/memenv.cc \
            src/leveldb/helpers/memenv/memenv_test.cc \
            src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c
-RESOURCES += src/qt/alqo.qrc src/qt/alqo_locale.qrc
+RESOURCES += src/qt/robi.qrc src/qt/robi_locale.qrc
 
-TRANSLATIONS += src/qt/locale/alqo_bg.ts \
-                src/qt/locale/alqo_de.ts \
-                src/qt/locale/alqo_en.ts \
-                src/qt/locale/alqo_es.ts \
-                src/qt/locale/alqo_fi.ts \
-                src/qt/locale/alqo_fr.ts \
-                src/qt/locale/alqo_it.ts \
-                src/qt/locale/alqo_ja.ts \
-                src/qt/locale/alqo_pl.ts \
-                src/qt/locale/alqo_pt.ts \
-                src/qt/locale/alqo_ru.ts \
-                src/qt/locale/alqo_sk.ts \
-                src/qt/locale/alqo_sv.ts \
-                src/qt/locale/alqo_vi.ts \
-                src/qt/locale/alqo_zh_CN.ts \
-                src/qt/locale/alqo_zh_TW.ts
+TRANSLATIONS += src/qt/locale/robi_bg.ts \
+                src/qt/locale/robi_de.ts \
+                src/qt/locale/robi_en.ts \
+                src/qt/locale/robi_es.ts \
+                src/qt/locale/robi_fi.ts \
+                src/qt/locale/robi_fr.ts \
+                src/qt/locale/robi_it.ts \
+                src/qt/locale/robi_ja.ts \
+                src/qt/locale/robi_pl.ts \
+                src/qt/locale/robi_pt.ts \
+                src/qt/locale/robi_ru.ts \
+                src/qt/locale/robi_sk.ts \
+                src/qt/locale/robi_sv.ts \
+                src/qt/locale/robi_vi.ts \
+                src/qt/locale/robi_zh_CN.ts \
+                src/qt/locale/robi_zh_TW.ts

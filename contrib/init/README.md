@@ -1,10 +1,10 @@
 Sample configuration files for:
 
-SystemD: alqod.service
-Upstart: alqod.conf
-OpenRC:  alqod.openrc
-         alqod.openrcconf
-CentOS:  alqod.init
+SystemD: robid.service
+Upstart: robid.conf
+OpenRC:  robid.openrc
+         robid.openrcconf
+CentOS:  robid.init
 
 have been made available to assist packagers in creating node packages here.
 
