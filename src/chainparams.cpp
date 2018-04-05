@@ -107,7 +107,7 @@ public:
         nMinerThreads = 0;
         nTargetTimespan = 1 * 60; // ROBI: 1 day
         nTargetSpacing = 1 * 60;  // ROBI: 1 minute
-        nLastPOWBlock = 475200;
+        nLastPOWBlock = 500000;
         nMaturity = 110;
         nMasternodeCountDrift = 20;
 		nMasternodeColleteralLimxDev = 10000; //Params().MasternodeColleteralLimxDev()

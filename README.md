@@ -1,36 +1,31 @@
-[![Build Status](https://travis-ci.org/Crypto-Developer/ROBI.svg?branch=master)](https://travis-ci.org/Crypto-Developer/ROBI) [![GitHub version](https://badge.fury.io/gh/robicrypto%2Frobi.svg)](https://badge.fury.io/gh/robicrypto/robi)
-
 ROBI is a universal 3rd generation cryptocurrency that combines the best features of different coins
 in order to create an excellent new digital payment asset.
-
-Anonymized transactions using coin mixing technology. 1-Second-Transactions. Network stability with masternodes, each is secured with a collateral of 10.000 ROBI. 100% Governance.
-
-For further information visit us at [robi.org](https://robi.org/) or visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=2343884.0)
 
 # Coin Specs
 
 • PoW Algorithm: Quark  
-• Premine: (#1 Block) 100,001 ROBI (0,17% of PoW) For 10 masternodes, going to be burned after 1 year.  
-• PoW Blocks: 2 - 475200  
-• PoS Blocks: Starting from 475201  
+• Premine: (#1 Block) 3,000,000 ROBI
+• PoW Blocks: 2 - 500 000  
+• PoS Blocks: Starting from 500 001  
 • Block Time: 60 Seconds  
-• PoW Max Coin Output/Supply: 57,879,300  
-• PoW Ending: ~ ca. 330 Days (Estimated: October 2018)  
+• PoW Max Coin Output/Supply: 100,000,000  
+• PoW Ending: ~ ca. 350 Days (Estimated: April 2019)  
 • Masternode Requirements: 10,000 ROBI  
-• Maturity: 111 Confirmations  
-• Prefix: ROBI adresses start with the capital letter "A"   
+• Maturity: 110 Confirmations  
+• Prefix: ROBI adresses start with the capital letter "r"   
 
 # PoW Reward Distribution
 
-_Proof of Work block rewards, masternode reward allocation starting at the 10th November 2017_
 <table>
 <tr><th>Block Height</th><th>Reward Amount</th><th>Masternodes</th><th>Miners</th></tr>
-<tr><td>Block 2 - 86400</td><td>200 ROBI</td><td>   Masternodes 20%</td><td>Miners 80%</td></tr>
-<tr><td>Block 86401 - 151200</td><td>150 ROBI</td><td>  Masternodes 25%</td><td>Miners 75%</td></tr>
-<tr><td>Block 151201 - 302400</td><td>125 ROBI</td><td>  Masternodes 30%</td><td>Miners 70%</td></tr>
-<tr><td>Block 302401 - 345600</td><td>100 ROBI</td><td>   Masternodes 35%</td><td>Miners 65%</td></tr>
-<tr><td>Block 345601 - 388800</td><td>75 ROBI</td><td>      Masternodes 40%</td><td>Miners 60%</td></tr>
-<tr><td>Block 388801 - 475200</td><td>50 ROBI</td><td>      Masternodes 40%</td><td>Miners 60%</td></tr>
+<tr><td>Block 2 - 5 000</td><td>3 ROBI</td><td>   Masternodes 90%</td><td>Miners 10%</td></tr>
+<tr><td>Block 5 001 - 10 000</td><td>30 ROBI</td><td>  Masternodes 90%</td><td>Miners 10%</td></tr>
+<tr><td>Block 10 001 - 25 000</td><td>60 ROBI</td><td>  Masternodes 90%</td><td>Miners 10%</td></tr>
+<tr><td>Block 25 001 - 45 000</td><td>90 ROBI</td><td>   Masternodes 90%</td><td>Miners 10%</td></tr>
+<tr><td>Block 45 001 - 75 000</td><td>120 ROBI</td><td>      Masternodes 90%</td><td>Miners 10%</td></tr>
+<tr><td>Block 75 001 - 115 000</td><td>90 ROBI</td><td>      Masternodes 90%</td><td>Miners 10%</td></tr>
+<tr><td>Block 115 001 - 225 000</td><td>60 ROBI</td><td>      Masternodes 90%</td><td>Miners 10%</td></tr>
+<tr><td>Block 225 001 - 500 000</td><td>30 ROBI</td><td>      Masternodes 90%</td><td>Miners 10%</td></tr>
 </table>
 
 Masternode and staker rewards with PoS:
@@ -39,21 +34,16 @@ This means the more masternodes are in the system, the more staking gets attract
 
 # PoS Block Rewards
 
-_Proof of Stake will automatically be enabled at block 475201._
+_Proof of Stake will automatically be enabled at block 500 001._
 <table>
 <tr><th>Block Height</th><th>Reward Amount</th>                  
-<tr><td>Block 475201 - 518400</td><td>50 ROBI</td></tr>
-<tr><td>Block 518401 - 561600</td><td>25 ROBI</td></tr>
-<tr><td>Block 561601 - 604800</td><td>10 ROBI</td></tr>
-<tr><td>Block 604801 - infinite</td><td>5 ROBI</td></tr>
+<tr><td>Block 500 001 - 650 000</td><td>120 ROBI</td></tr>
+<tr><td>Block 650 001 - 800 000</td><td>60 ROBI</td></tr>
+<tr><td>Block 800 001 - 1 100 000</td><td>10 ROBI</td></tr>
+<tr><td>Block 1 100 000 - infinite</td><td>3 ROBI</td></tr>
 </table>
 
 
 # Further information
 
-_For more information check out our whitepaper at [robi.org/whitepaper.pdf](https://robi.org/whitepaper.pdf)_
-
-
-Alternatively we have added a non .pdf Version into our Github. You can find it in the ROBI Github Wiki.
-
-[https://github.com/Crypto-Developer/ROBI/wiki](https://github.com/Crypto-Developer/ROBI/wiki)
+For further information visit us at [royalbit-coin.com](http://royalbit-coin.com/) or visit our ANN thread at [BitcoinTalk]()
