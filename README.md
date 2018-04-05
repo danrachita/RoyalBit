@@ -4,7 +4,7 @@ in order to create an excellent new digital payment asset.
 # Coin Specs
 
 • PoW Algorithm: Quark  
-• Premine: (#1 Block) 3,000,000 ROBI
+• Premine: (#1 Block) 3,000,000 ROBI  
 • PoW Blocks: 2 - 500 000  
 • PoS Blocks: Starting from 500 001  
 • Block Time: 60 Seconds  
@@ -12,7 +12,7 @@ in order to create an excellent new digital payment asset.
 • PoW Ending: ~ ca. 350 Days (Estimated: April 2019)  
 • Masternode Requirements: 10,000 ROBI  
 • Maturity: 110 Confirmations  
-• Prefix: ROBI adresses start with the capital letter "r"   
+• Prefix: ROBI adresses start with the capital letter "r"  
 
 # PoW Reward Distribution
 
