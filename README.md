@@ -1,6 +1,7 @@
 ROBI is a universal 3rd generation cryptocurrency that combines the best features of different coins
 in order to create an excellent new digital payment asset.
 
+
 # Coin Specs
 
 • PoW Algorithm: Quark  
@@ -13,6 +14,7 @@ in order to create an excellent new digital payment asset.
 • Masternode Requirements: 10,000 ROBI  
 • Maturity: 110 Confirmations  
 • Prefix: ROBI adresses start with the capital letter "r"  
+
 
 # PoW Reward Distribution
 
@@ -32,9 +34,10 @@ Masternode and staker rewards with PoS:
 Masternodes and stakers will receive split reward allocation when PoS sets in.
 This means the more masternodes are in the system, the more staking gets attractive and vice versa.
 
+
 # PoS Block Rewards
 
-_Proof of Stake will automatically be enabled at block 500 001._
+_Proof of Stake will automatically be enabled at block 500 001_
 <table>
 <tr><th>Block Height</th><th>Reward Amount</th>                  
 <tr><td>Block 500 001 - 650 000</td><td>120 ROBI</td></tr>
@@ -42,6 +45,7 @@ _Proof of Stake will automatically be enabled at block 500 001._
 <tr><td>Block 800 001 - 1 100 000</td><td>10 ROBI</td></tr>
 <tr><td>Block 1 100 000 - infinite</td><td>3 ROBI</td></tr>
 </table>
+
 
 
 # Further information
