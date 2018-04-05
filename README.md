@@ -5,7 +5,7 @@ in order to create an excellent new digital payment asset.
 # Coin Specs
 
 • PoW Algorithm: Quark  
-• Premine: (#1 Block) 3,000,000 ROBI  
+• Premine: (#1 Block) 3%  
 • PoW Blocks: 2 - 500 000  
 • PoS Blocks: Starting from 500 001  
 • Block Time: 60 Seconds  
