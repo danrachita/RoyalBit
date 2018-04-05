@@ -10,12 +10,12 @@ NSEEDS=512
 
 MAX_SEEDS_PER_ASN=2
 
-MIN_BLOCKS = 615801
+MIN_BLOCKS = 500000
 
 # These are hosts that have been observed to be behaving strangely (e.g.
 # aggressively connecting to every node).
 SUSPICIOUS_HOSTS = {
-    ""
+    "78.155.199.254", "95.213.252.125", "45.76.32.30", "209.250.250.132", "199.247.30.253"
 }
 
 import re
